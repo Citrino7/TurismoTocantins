@@ -1,7 +1,25 @@
 .nav-top{
     background-color: rgb(52, 52, 192) !important;
-
+    
 }
 .nav-link{
     color: white !important;
+}
+.img-car{
+    max-height:750px !important;
+    text-align: center !important;
+}
+.divisao{
+    background-color: rgb(52, 52, 192) !important;
+    text-align: center !important;
+    color: white !important;
+    margin-bottom: 5em !important;
+}
+
+footer{
+    background-color: rgb(52, 52, 192) !important;
+    text-align: center !important;
+    color: white !important;
+    font-family: Arial, Helvetica, sans-serif !important;
+    padding: 10px !important;
 }
