@@ -22,7 +22,7 @@
     background-color: rgb(52, 52, 192) !important;
     text-align: center !important;
     color: white !important;
-    padding: 1px !important;
+    padding: 10px !important;
     /* margin-bottom: 5em !important;*/
 }
 
@@ -42,15 +42,26 @@
     padding: 1% !important;
     margin: 0% 1% 1% 0% !important;
 }
-
-.sec-contatos{
-   margin: 1% 10% 10% 5% !important;
+.card h4{
+    color: brown !important;
 }
 
-.logo img{
-    width: 10% !important;
-    display: flex !;
+.sec-contatos{
+   margin: 2% 10% 10% 3% !important;
+}
+
+.links {
+    text-align: center !important;
+    padding: 1em !important;
+    color: black !important;
+}
+.links a{
+    text-decoration: none !important;
+    color: black;
     
+}
+.inst{
+    margin-left: 2% !important;
 }
 
 iframe{
@@ -63,5 +74,6 @@ footer{
     text-align: center !important;
     color: white !important;
     font-family: Arial, Helvetica, sans-serif !important;
-    padding: 10px !important;
+    padding: 30px !important;
+    margin-bottom: 1% !important;
 }
